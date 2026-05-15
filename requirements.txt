@@ -1,0 +1,11 @@
+langchain 
+langchain-openai 
+langchain-community 
+faiss-cpu 
+pymupdf 
+rank-bm25 
+fastapi 
+uvicorn 
+streamlit 
+python-dotenv 
+sentence-transformers
